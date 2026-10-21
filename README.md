@@ -1,4 +1,8 @@
-# 番茄界面定制 5.0.5
+<div align="center">
+  <img src="icon.svg" width="96" height="96" alt="番茄 UI 自定义图标" />
+  <h1>番茄 UI 自定义</h1>
+  <p>LSPosed 模块 · 番茄小说 7.3.9.32 · v5.0.5</p>
+</div>
 
 用于番茄免费小说的 LSPosed 模块，提供界面精简、阅读界面调整和书籍编号工具，各功能独立开关。
 

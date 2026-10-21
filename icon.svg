@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 48 48" role="img" aria-labelledby="title">
+  <title id="title">番茄 UI 自定义</title>
+  <path fill="#EF5B33" d="M12 2H36Q46 2 46 12V36Q46 46 36 46H12Q2 46 2 36V12Q2 2 12 2Z"/>
+  <path fill="#FFF" d="M10 12H20Q24 12 24 16Q24 12 28 12H38V34H28Q24 34 24 38Q24 34 20 34H10Z"/>
+  <path fill="none" stroke="#EF5B33" stroke-width="2" stroke-linecap="round" d="M24 17V32M14 19H20M14 24H20M14 29H20M28 19H34M28 24H34M28 29H34"/>
+</svg>
